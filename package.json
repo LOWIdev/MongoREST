@@ -1,14 +1,13 @@
 {
-  "name": "15tut",
+  "name": "mongorest",
   "version": "1.0.0",
-  "description": "MongoDB tutorial",
+  "description": "MongoDB REST Api",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
-  "license": "ISC",
+  "author": "Darian Wolz",
   "engines": {
     "node": "14.x"
   },
