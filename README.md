@@ -33,6 +33,6 @@ Paths:
 
 /guidedtours GET
 /guidedtours POST
-/guidedtours:id PUT
+/guidedtours:id PATCH
 /guidedtours:id DELETE
 
